@@ -13,3 +13,6 @@ Then I think I ~will~ might finish the story with some code.
 
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
+## More Information
+
+Look at the GitHub project for more details on how this should work. 
