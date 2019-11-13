@@ -17,4 +17,7 @@ Then I think I ~will~ might finish the story with some code.
 
 Look at the GitHub project for more details on how this should work. 
 
-<video>https://youtu.be/svPDhmXY1Yg</video>
+
+<video width="320" height="240" controls>
+ <source src="https://youtu.be/svPDhmXY1Yg" type="video/mp4"></video>
+  
